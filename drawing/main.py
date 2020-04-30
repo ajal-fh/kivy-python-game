@@ -8,7 +8,7 @@ class GameWidget(Widget):
         super().__init__(**kwargs)
 
         with self.canvas:
-            Rectangle(pos=(0, 0), size=(100, 100))
+            Rectangle(source="smiley.jpg", pos=(0, 0), size=(100, 100))
 
 
 class MyApp(App):
