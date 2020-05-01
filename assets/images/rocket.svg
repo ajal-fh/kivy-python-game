@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,15 +89,15 @@
      id="namedview3715"
      showgrid="false"
      inkscape:zoom="0.15570834"
-     inkscape:cx="1585.5135"
-     inkscape:cy="2456.9739"
+     inkscape:cx="1540.5577"
+     inkscape:cy="1686.3023"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3713" />
   <g
      id="g6218"
-     transform="rotate(179.14202,1083.9494,1285.3851)">
+     transform="matrix(-0.22345579,0.01118026,-0.00334641,-0.74656019,1143.9518,2086.3873)">
     <path
        id="rect3748"
        d="m 905.53925,1400.0533 h 166.97885 v 401.3915 H 905.53925 Z"
